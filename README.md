@@ -10,6 +10,10 @@ $ npm install
 ```
 
 ```bash
+Change Database Config in ormconfig.json and .env file with your configuration
+```
+
+```bash
 $ ts-node ./node_modules/typeorm/cli.js migration:run
 ```
 
